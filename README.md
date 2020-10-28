@@ -18,3 +18,4 @@ Joseph Reuss, Test Engineer 2, joereuss12
 Adam Gerkhardt, Back End Developer 1, adamgerkhardt
 Owen Graham, Back End Developer 2, ohgraham-wisc
 Nicole Bennett, Test Engineer 1, nilabee
+Lillian Peralta, Front End Developer 2, lillyperalta
