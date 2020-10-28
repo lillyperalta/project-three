@@ -14,3 +14,4 @@ John Doe, Data Wrangler 1, johnsGithubUsername
 ## Signatures:
 Jiaqi He, Data Wrangler 2, redffish
 Connor Kolb, Data Wrangler 1, connor-kolb-13
+Joseph Reuss, Test Engineer 2, joereuss12
