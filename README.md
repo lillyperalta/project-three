@@ -17,3 +17,4 @@ Connor Kolb, Data Wrangler 1, connor-kolb-13
 Joseph Reuss, Test Engineer 2, joereuss12
 Adam Gerkhardt, Back End Developer 1, adamgerkhardt
 Owen Graham, Back End Developer 2, ohgraham-wisc
+Nicole Bennett, Test Engineer 1, nilabee
