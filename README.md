@@ -19,3 +19,4 @@ Adam Gerkhardt, Back End Developer 1, adamgerkhardt
 Owen Graham, Back End Developer 2, ohgraham-wisc
 Nicole Bennett, Test Engineer 1, nilabee
 Lillian Peralta, Front End Developer 2, lillyperalta
+Liam Jogal, Front End Developer 1, liamjogal
