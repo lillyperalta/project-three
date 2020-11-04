@@ -4,12 +4,12 @@ README for Team Project Three (CS400 @ UW Madison)
 Every member of a team must have an individual README.txt file filled in in their folder on
 the team's GitHub repo.
 
-Name of submitting team member: <fill in your name here>
-Wisc email of submitting team member: <fill in your wisc email here>
-Team name: <fill in your team name here>
-Role of submitting team member: <your role on the team>
-TA: <your team's TA>
-Lecturer: <your Lecturer's name>
+Name of submitting team member: Owen Graham
+Wisc email of submitting team member: ohgraham@wisc.edu
+Team name: KA
+Role of submitting team member: Back End Developer 2
+TA: Siddarth Mohan
+Lecturer: Gary Dahl
 
 Files written by me:
 --------------------
