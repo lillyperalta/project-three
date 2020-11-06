@@ -13,10 +13,9 @@ Lecturer: Gary Dahl
 
 Files written by me:
 --------------------
-<List ALL of the source files here that were written by you. Note that each of the
-files must contain correct file headers, including your name, team, and role. List
-files one per line in this section of the README.
+CS400Graph.java
+AirportGraph.java
 
 Additional notes about the submission:
 --------------------------------------
-<List any additional notes for the grader here.>
+N/A

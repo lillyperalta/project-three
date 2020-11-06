@@ -1,11 +1,12 @@
+# The main class is FlightApplication.
 run: compile
-	@echo "FIXME: *run* should be the default target and compile and execute your code."
+	java FlightApplication
 
 compile:
-	@echo "FIXME: *compile* should compile your code"
+	javac -cp junit5.jar *.java
 
 test:
-	@echo "FIXME: *test* should run all your group's testing engineer's JUnit tests for the application"
+	java -jar junit5.jar --scan-classpath --details tree
 
 clean:
 	$(RM) *.class
