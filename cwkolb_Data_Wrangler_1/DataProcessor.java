@@ -30,16 +30,19 @@ public class DataProcessor {
 		File flightData = new File(fileName);
 		Scanner scanner = new Scanner(flightData);
 		while (scanner.hasNextLine()) {
+			// format the input into an array
 			String[] flightInfo = scanner.nextLine().trim().split(",");
 			String start = flightInfo[0].trim();
 			String destination = flightInfo[1].trim();
 			int weight = Integer.parseInt(flightInfo[2].trim());
+			// ensure the start and destination airports are in the object
 			if (!airport.containsAirport(start)) {
 				airport.insertAirport(start);
 			}
 			if (!airport.containsAirport(destination)) {
 				airport.insertAirport(destination);
 			}
+			// add the fight 
 			airport.insertFlight(start, destination, weight);
 		}
 		scanner.close();
