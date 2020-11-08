@@ -5,7 +5,7 @@ run: compile
 compile:
 	javac -cp junit5.jar *.java
 
-test:
+test: compile
 	java -jar junit5.jar --scan-classpath --details tree
 
 clean:
